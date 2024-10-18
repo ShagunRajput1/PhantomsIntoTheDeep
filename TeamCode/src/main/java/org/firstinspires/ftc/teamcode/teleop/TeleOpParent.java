@@ -14,7 +14,7 @@ public class TeleOpParent extends LinearOpMode {
 
 //    DriverOrientedControl drive;
     public double movementPwr = 1;
-    public double turningMultiplier = 1;
+    public double turningMultiplier = 1;//:D
     DriveStyle.DriveType type = DriveStyle.DriveType.MECANUMTANK;
 
     @Override
